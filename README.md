@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web developement and IA**
 
-- 📫 How to reach me **hadil.eltaif@enicar.ucar.tn**
+- 📫 How to reach me **hadil.eltaif@enicar.ucar.tn** and **hadilltaif78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
