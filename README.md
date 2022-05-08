@@ -4,7 +4,7 @@
 <img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="image description" align="right" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadileltaif&label=Profile%20views&color=0e75b6&style=flat" alt="hadileltaif" /> </p>
 
-- 🌱 I’m currently learning **Web developement and IA**
+- 🌱 I’m currently learning **Web developement and Data Science**
 
 - 📫 How to reach me **hadil.eltaif@enicar.ucar.tn** and **hadilltaif78@gmail.com**
 
