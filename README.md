@@ -1,12 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm HADIL ELTAIF</h1>
-<h2 align="center"> A Software Engineer</h2>
-<img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="image description" align="right" width="400px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadileltaif&label=Profile%20views&color=0e75b6&style=flat" alt="hadileltaif" /> </p>
 
--  Recently graduated from **the National Engineering School of Carthage**.
-- 🌱 I’m currently learning **Web developement and Data Science**.
-- 📫 How to reach me **hadilltaif78@gmail.com**.
+### Hi there! 👋
+
+I'm HADIL ELTAIF, a recent graduate from **the National Engineering School of Carthage**. 🎓
+- 🔧 I work with Spring Boot and Angular.
+- 🌱 I’m currently learning Web development.
+- 📫 How to reach me: [hadilltaif78@gmail.com](mailto:hadilltaif78@gmail.com).
+
+Feel free to explore my repositories and connect with me! 😊
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
