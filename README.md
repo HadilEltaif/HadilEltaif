@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I'm HADIL ELTAIF, a recent graduate from **the National Engineering School of Carthage**. 🎓
+I'm HADIL ELTAIF, a **software engineer**, recently graduated from **the National Engineering School of Carthage**. 🎓
 - 🔧 I work with Spring Boot and Angular.
 - 🌱 I’m currently learning Web development.
 - 📫 How to reach me: [hadilltaif78@gmail.com](mailto:hadilltaif78@gmail.com).
