@@ -3,8 +3,8 @@
 ### Hi there! 👋
 
 I'm HADIL ELTAIF, a **software engineer**, recently graduated from **the National Engineering School of Carthage**. 🎓
-- 🔧 I work with Spring Boot and Angular.
-- 🌱 I’m currently learning Web development.
+- 🔧 Proficient in software engineering with expertise in web development: Spring Boot and Angular.
+- 🌱 I’m currently learning artificial intelligence.
 - 📫 How to reach me: [hadilltaif78@gmail.com](mailto:hadilltaif78@gmail.com).
 
 Feel free to explore my repositories and connect with me! 😊
